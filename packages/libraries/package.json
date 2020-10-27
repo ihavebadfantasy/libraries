@@ -16,6 +16,7 @@
   "dependencies": {
     "@wbe/fake-data-utils": "^1.4.2",
     "@wbe/metas-manager": "^1.5.0-alpha.0",
+    "@wbe/preloads": "^0.0.1",
     "@wbe/react-grid-layout": "^1.4.2",
     "@wbe/react-metas": "^1.5.0-alpha.0",
     "@wbe/react-responsive-image": "^1.4.2",
